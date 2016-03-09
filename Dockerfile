@@ -1,5 +1,5 @@
 FROM ruby:2.3.0
-MAINTAINER imvamo
+MAINTAINER invamo
 
 RUN apt-get update
 
